@@ -2,7 +2,7 @@ name: frp
 on:
   push:
     branches:
-      - Frp
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
